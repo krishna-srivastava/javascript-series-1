@@ -1,2 +1,2 @@
 # javascript-series
-I'm sharing my all javascript project
+this is my all javascript projects.
