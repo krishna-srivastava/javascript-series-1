@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: burlywood;
+}
+main{
+    min-height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    background-color: white;
+    border-radius: 10px;
+    max-width: 1000px;
+    padding: 30px;
+    overflow-x:hidden ;
+    box-shadow: 0px 0px 19px black;
+}
+.tab-box{
+    display: flex;
+    list-style: none;
+    gap: 15px;
+    overflow-x: hidden;
+}
+.tab{
+    cursor: pointer;
+    border-radius: 10px;
+    font-size: 1.2rem;
+    white-space: nowrap;
+    background: rgba(128, 128, 128, 0.579);
+    padding: 10px 15px;
+    border: 1px solid #d8d5f2;
+}
+.tab:hover{
+    background: rgba(128, 128, 128, 0.38);
+}
