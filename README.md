@@ -1,2 +1,2 @@
-# javascript-series 1
+# javascript
 this is my all javascript projects.
